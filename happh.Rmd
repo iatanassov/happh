@@ -1,6 +1,6 @@
 ---
 title: "The title"
-output: word_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
